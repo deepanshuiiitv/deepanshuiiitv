@@ -1,6 +1,7 @@
 <h1 align="center">
   <span style="color: red; font-weight: bold;">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="60">   , I'm Deepanshu Verma</span>
 </h1>
+<h2 align="center">DJPUBJ – <em>"Debug Justly, Program Uniquely, Build Joyfully"</em></h2>
 
 
 <div align="center">
